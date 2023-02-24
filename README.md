@@ -21,6 +21,9 @@ Current support:
   - 74HC163 - Presettable synchronous 4-bitbinary counter; synchronous reset
   - 74HC245 - Octal bus tranceiver; 3-state
   - 74HC273 - Octal D-type flip-flop with reset;positive-edge trigger
+  - 74HC283 - 4-bit binary full adder with fast carry
+  - 74HC299 - 8-bit universal shift register; 3-state
   - 74HC595 - 8-bit serial-in, serial or parallel-outshift register with output latches;3-state
+  - 74HC4078 - 8-INPUT NOR/OR GATE
 
   
