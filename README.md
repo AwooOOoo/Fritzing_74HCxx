@@ -12,7 +12,12 @@ Current support:
   - 74HC08 - Quad 2-input AND gate
   - 74HC10 - Triple 3-input NAND gate
   - 74HC11 - Triple 3-input AND gate
+  - 70HC20 - Dual 4-input NAND gate
+  - 70HC27 - Triple 3-input NOR gate
+  - 70HC30 - 8-input NAND gate
   - 74HC32 - Quad 2-input OR gate
+  - 70HC42 - BCD to decimal decoder (1-of-10)
+  - 70HC51 - DUAL 2 WIDE 2 INPUT AND/OR INVERT GATE
   - 74HC74 - Dual D-type flip-flop with set andreset; positive-edge trigger
   - 74HC86 - Quad 2-input EXCLUSIVE-OR gate
   - 74HC138 - 3-to-8 line decoder/demultiplexer; inverting 
@@ -27,13 +32,9 @@ Current support:
   - 74HC4078 - 8-INPUT NOR/OR GATE
 
 In Progress:
-  - 70HC20
-  - 70HC27
-  - 70HC30
-  - 70HC32
-  - 70HC42
-  - 70HC51
+
   - 70HC58
+  - 70HC73
   - 70HC4002
   - 70HC4851
   - 70HC7014

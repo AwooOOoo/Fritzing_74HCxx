@@ -86,7 +86,7 @@
        id="label"
        x="203.37039"
        y="163.31335"
-       font-size="60px"
+       font-size="60"
        font-family="OCRA"
        text-anchor="middle"
        fill="#e6e6e6">74HC20</text>
