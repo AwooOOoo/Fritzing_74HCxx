@@ -81,15 +81,15 @@
        r="20.6"
        id="circle10750" />
     <text
-       x="81.528923"
-       y="163.01653"
+       x="84.173546"
+       y="161.03305"
        fill="#e6e6e6"
        font-family="OCRA"
        gorn="0.1.10"
        text-anchor="start"
        stroke="none"
        id="label"
-       font-size="80px">74HCxx</text>
+       font-size="80px">74HC42</text>
     <rect
        width="30"
        x="35"

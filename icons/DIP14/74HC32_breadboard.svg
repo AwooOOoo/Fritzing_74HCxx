@@ -5,35 +5,11 @@
    width="0.7in"
    height="0.33in"
    viewBox="0 0 700 330"
-   sodipodi:docname="74HC32_breadboard.svg"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <sodipodi:namedview
-     id="namedview5401"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="in"
-     showgrid="false"
-     inkscape:zoom="18.005953"
-     inkscape:cx="25.158346"
-     inkscape:cy="15.966942"
-     inkscape:window-width="1920"
-     inkscape:window-height="1002"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="breadboard" />
   <metadata
      id="metadata76">
     <rdf:RDF>
@@ -108,8 +84,8 @@
        id="circle13" />
     <text
        id="label"
-       x="341.05634"
-       y="184.71831"
+       x="201.05634"
+       y="162.73483"
        font-size="60px"
        font-family="OCRA"
        text-anchor="middle"

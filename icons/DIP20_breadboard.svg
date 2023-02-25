@@ -2,14 +2,10 @@
 <svg
    width="1.0in"
    xml:space="preserve"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    version="1.2"
    height="0.33in"
    viewBox="0 0 100.0 33.0"
-   sodipodi:docname="DIP20_breadboard.svg"
    id="svg2"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -29,38 +25,9 @@
  </metadata>
  <defs
    id="defs3506">
-  <inkscape:perspective
-   inkscape:vp_x="0 : 14.85 : 1"
-   inkscape:vp_y="0 : 1000 : 0"
-   inkscape:vp_z="90 : 14.85 : 1"
-   sodipodi:type="inkscape:persp3d"
-   id="perspective3510"
-   inkscape:persp3d-origin="45 : 9.9000003 : 1" />
+  
  </defs>
- <sodipodi:namedview
-   objecttolerance="10"
-   inkscape:cx="44.833333"
-   inkscape:pageshadow="2"
-   inkscape:window-height="1002"
-   inkscape:cy="14.916667"
-   bordercolor="#666666"
-   id="namedview3504"
-   guidetolerance="10"
-   inkscape:pageopacity="0"
-   inkscape:window-x="-8"
-   inkscape:window-y="-8"
-   inkscape:current-layer="label"
-   pagecolor="#ffffff"
-   showgrid="false"
-   inkscape:zoom="6"
-   inkscape:window-width="1920"
-   borderopacity="1"
-   inkscape:window-maximized="1"
-   gridtolerance="10"
-   inkscape:showpageshadow="2"
-   inkscape:pagecheckerboard="0"
-   inkscape:deskcolor="#d1d1d1"
-   inkscape:document-units="in" />
+ 
  <g
    id="breadboard">
   <rect
@@ -117,15 +84,14 @@
   <g
    fill="#e6e6e6"
    font-family="OCRA"
-   sodipodi:linespacing="125%"
    text-anchor="start"
    stroke="none"
    style="text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
    id="label"
    font-size="8">
    <text
-   x="36.708332"
-   y="18.756945"
+   x="7.9307704"
+   y="16.243975"
    id="text248586"
    style="line-height:0%">74HCxx</text>
   </g>

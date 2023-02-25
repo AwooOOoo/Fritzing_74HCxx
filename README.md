@@ -26,5 +26,16 @@ Current support:
   - 74HC595 - 8-bit serial-in, serial or parallel-outshift register with output latches;3-state
   - 74HC4078 - 8-INPUT NOR/OR GATE
 
-  
+In Progress:
+  - 70HC20
+  - 70HC27
+  - 70HC30
+  - 70HC32
+  - 70HC42
+  - 70HC51
+  - 70HC58
+  - 70HC4002
+  - 70HC4851
+  - 70HC7014
+   
 	

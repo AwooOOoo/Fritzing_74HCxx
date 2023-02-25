@@ -84,12 +84,12 @@
        id="circle13" />
     <text
        id="label"
-       x="205.10593"
-       y="164.47037"
+       x="201.05634"
+       y="162.73483"
        font-size="60px"
        font-family="OCRA"
        text-anchor="middle"
-       fill="#e6e6e6">74HC74</text>
+       fill="#e6e6e6">74HC58</text>
     <rect
        stroke-width="10"
        fill="#8c8c8c"

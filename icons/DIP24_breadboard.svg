@@ -11,32 +11,9 @@
    viewBox="0 0 86.4 23.76"
    id="svg2"
    enable-background="new 0 0 86.4 23.76"
-   sodipodi:docname="DIP24_breadboard.svg"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-   id="defs21803" /><sodipodi:namedview
-   id="namedview21801"
-   pagecolor="#ffffff"
-   bordercolor="#000000"
-   borderopacity="0.25"
-   inkscape:showpageshadow="2"
-   inkscape:pageopacity="0.0"
-   inkscape:pagecheckerboard="0"
-   inkscape:deskcolor="#d1d1d1"
-   inkscape:document-units="in"
-   showgrid="false"
-   inkscape:zoom="10.503472"
-   inkscape:cx="57.600001"
-   inkscape:cy="15.947108"
-   inkscape:window-width="1920"
-   inkscape:window-height="1002"
-   inkscape:window-x="-8"
-   inkscape:window-y="-8"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="breadboard" />
+   id="defs21803" />
  <g
    id="breadboard">
   <rect
@@ -94,8 +71,8 @@
    font-family="OCRA"
    id="label"
    font-size="5.76px"
-   x="31.099735"
-   y="13.308">74HCxx</text>
+   x="5.8223801"
+   y="11.808496">74HCxx</text>
   <rect
    width="2.16"
    x="2.52"
