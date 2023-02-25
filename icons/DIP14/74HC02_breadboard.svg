@@ -27,13 +27,13 @@
      showgrid="false"
      inkscape:zoom="18.005953"
      inkscape:cx="25.158346"
-     inkscape:cy="16.078016"
+     inkscape:cy="16.022479"
      inkscape:window-width="1920"
      inkscape:window-height="1002"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g434" />
+     inkscape:current-layer="g273" />
   <metadata
      id="metadata76">
     <rdf:RDF>
@@ -50,7 +50,7 @@
   <g
      id="breadboard">
     <g
-       id="g434">
+       id="g273">
       <rect
          stroke-width="10"
          fill="#303030"
@@ -110,16 +110,16 @@
          id="circle13" />
       <text
          id="label"
-         x="250"
-         y="160"
+         x="250.0"
+         y="160.0"
          font-family="OCRA"
          text-anchor="middle"
          fill="#e6e6e6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:83.3333px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#e6e6e6"><tspan
+         style="-inkscape-font-specification:'OCRA, Normal';font-family:OCRA;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:83.3333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle;fill:#e6e6e6"><tspan
            sodipodi:role="line"
            id="tspan272"
-           x="250"
-           y="160">74HC02</tspan></text>
+           x="341.05634"
+           y="184.71831">74HC02</tspan></text>
       <rect
          stroke-width="10"
          fill="#8c8c8c"
