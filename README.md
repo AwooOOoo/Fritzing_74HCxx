@@ -1,6 +1,6 @@
-# Fitzing_74HCxx (https://fritzing.org/)
+# Fritzing_74HCxx (https://fritzing.org/)
 
-Library of 74HCxx ICs for Fitzing
+Library of 74HCxx ICs for Fritzing
 
 ![74HCxx Chips](images/ICs.png)
 
