@@ -18,6 +18,8 @@ Current support:
   - 74HC32 - Quad 2-input OR gate
   - 70HC42 - BCD to decimal decoder (1-of-10)
   - 70HC51 - DUAL 2 WIDE 2 INPUT AND/OR INVERT GATE
+  - 70HC58 - Dual AND-OR gate
+  - 70HC73 - Dual JK flip-flop with reset; negative-edge trigger
   - 74HC74 - Dual D-type flip-flop with set andreset; positive-edge trigger
   - 74HC86 - Quad 2-input EXCLUSIVE-OR gate
   - 74HC138 - 3-to-8 line decoder/demultiplexer; inverting 
@@ -29,14 +31,13 @@ Current support:
   - 74HC283 - 4-bit binary full adder with fast carry
   - 74HC299 - 8-bit universal shift register; 3-state
   - 74HC595 - 8-bit serial-in, serial or parallel-outshift register with output latches;3-state
+  - 74HC4002 - Dual 4-input NOR gate
   - 74HC4078 - 8-INPUT NOR/OR GATE
-
+  - 70HC4851 - 8-channel analog MUX/DEMUX with injection-current effect control
+  - 70HC7014 - Hex non-inverting precision Schmitt-trigger
+  
 In Progress:
+  - loading please wait .... =)
 
-  - 70HC58
-  - 70HC73
-  - 70HC4002
-  - 70HC4851
-  - 70HC7014
    
 	
